@@ -1,4 +1,4 @@
-# FlaskBaseAPI
+# Flask Base API
 Basic MVC-style Flask Rest-API structure.
 Flask API server for development.
 
@@ -11,7 +11,18 @@ In a virtual environment:
 ```sh
 pip install -r requirements.txt
 ```
-## Starts
+
+In the 'back/' directory, use:
+1.
+```sh
+source env
+```
+2.
+```sh
+python run.py
+```
+
+## Start
 Ports:
 * Flask - 8000
 
